@@ -18,10 +18,9 @@ function johnLennonFacts(fact){
 
 function iLoveTheBeatles(num){
   var list = []
-  var x = 0
   
   function incrementVariable(){
-    x++
+    nu++
     return x
   }
   
