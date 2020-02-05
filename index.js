@@ -27,4 +27,5 @@ function iLoveTheBeatles(num){
   do{
     list.push(`I love the Beatles`)
   }while(incrementVariable() < 15)
+  return list
 }
