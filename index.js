@@ -10,7 +10,7 @@ function johnLennonFacts(fact){
   var i = 0
   var factsList = []
   while (i < fact.length){
-    factsList.push(`${fact[0]}!!!`)
+    factsList.push(`${fact[i]}!!!`)
     i++
   }
   return factsList
