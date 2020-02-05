@@ -20,8 +20,8 @@ function iLoveTheBeatles(num){
   var list = []
   
   function incrementVariable(){
-    nu++
-    return x
+    num++
+    return num
   }
   
   do{
